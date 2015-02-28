@@ -26,8 +26,8 @@ http://support@medienworx.eu
 E-mail + Ticket Support
 support@medienworx.eu
 
-Github
-https://github.com/medienworx
+Github Issues 
+https://github.com/medienworx/mwk-bx-slider/issues
 
 -----------------------------
 
