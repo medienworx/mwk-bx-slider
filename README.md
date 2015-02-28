@@ -11,7 +11,7 @@ Contao 3.2.x or higher.
 ### Installation
 -----------------------------
 
-* copy the module folder to TL_ROOT
+* copy the module folder to TL_ROOT/system/modules/
 * open the package management and click refresh database
 
 -----------------------------
@@ -31,6 +31,6 @@ https://github.com/medienworx
 
 -----------------------------
 
-### Commercial License
+### Commercial license
 -----------------------------
-you can order a licences for 39 EUR + VAT by support@medienworx.eu
+you can order a licence for 39 EUR + VAT by support@medienworx.eu
